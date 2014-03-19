@@ -7,7 +7,10 @@ package ar.edu.untdf.labprog.tp1.ejer1;
 /**
  *
  * @author matiasgel
+ * sss
  */
+
+
 public class MysqlConn implements Conn{
     public void connect(){
         System.out.println("Conectado  a mysql");
