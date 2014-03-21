@@ -79,7 +79,7 @@ public class Validador extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void botonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botonActionPerformed
-        /* prueba de modificacion @msampirisi@ prueba ? */
+        /* prueba de modificacion @msampirisi@ prueba ? completa ? */
         System.out.println("campo email:"+email.getText()+"  campo documento: "+documento.getText());
     }//GEN-LAST:event_botonActionPerformed
 
